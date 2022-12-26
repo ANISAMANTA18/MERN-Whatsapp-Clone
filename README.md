@@ -1,2 +1,0 @@
-# Whatsapp-Clone
-Whatsapp-Clone
